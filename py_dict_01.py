@@ -19,3 +19,10 @@ print(person)
 person_email = person['email']
 print(person_email)
 print(person)
+
+
+# dodavanje
+person['id'] = 2
+
+# dohvat
+person_id = person['id']
